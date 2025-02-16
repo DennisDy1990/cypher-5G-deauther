@@ -1,3 +1,6 @@
+//#include <Adafruit_SSD1306.h>
+#include <splash.h>
+
 // Oled code made by warwick320 // updated by Cypher --> github.com/dkyazzentwatwa/cypher-5G-deauther
 
 // Wifi
